@@ -9,4 +9,5 @@ flipkart.com or amazon.in. The API should have following features -
 delete a product, edit a product etc.
 1. API to add products to cart and remove products from cart.
 1. All APIs should give response in a proper standard format.
+
 Create middlewares and libraries wherever required
